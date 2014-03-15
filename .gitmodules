@@ -1,0 +1,3 @@
+[submodule "packages/vim-mode"]
+	path = packages/vim-mode
+	url = git@github.com:atom/vim-mode.git
