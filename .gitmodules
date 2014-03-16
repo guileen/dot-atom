@@ -7,3 +7,6 @@
 [submodule "packages/atom-lint"]
 	path = packages/atom-lint
 	url = git@github.com:yujinakayama/atom-lint.git
+[submodule "packages/npm-install"]
+	path = packages/npm-install
+	url = git@github.com:hughsk/atom-npm-install.git
