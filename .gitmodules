@@ -4,3 +4,6 @@
 [submodule "packages/editor-stats"]
 	path = packages/editor-stats
 	url = git@github.com:atom/editor-stats.git
+[submodule "packages/atom-lint"]
+	path = packages/atom-lint
+	url = git@github.com:yujinakayama/atom-lint.git
