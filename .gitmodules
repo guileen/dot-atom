@@ -1,3 +1,6 @@
 [submodule "packages/vim-mode"]
 	path = packages/vim-mode
 	url = git@github.com:atom/vim-mode.git
+[submodule "packages/editor-stats"]
+	path = packages/editor-stats
+	url = git@github.com:atom/editor-stats.git
